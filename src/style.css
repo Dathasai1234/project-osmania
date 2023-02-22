@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+
+.hi {
+    margin-bottom: 10rem;
+    background-color: #000;
+}
+
+.contact_category {
+    margin-bottom: 5rem;
+    text-align: left;
+    font-weight: bold;
+}
+
+/* body{
+    margin-top:20px;
+    background:#FAFAFA;
+} */
+.order-card {
+    color: #fff;
+}
+
+.bg-c-blue {
+    background: linear-gradient(45deg, #000, #000);
+}
+
+.bg-c-green {
+    background: linear-gradient(45deg, #000, #000);
+}
+
+.bg-c-yellow {
+    background: linear-gradient(45deg, #000, #000);
+}
+
+.bg-c-pink {
+    background: linear-gradient(45deg, #000, #000);
+}
+
+
+.card {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4, 26, 55, 0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4, 26, 55, 0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.card p,
+.card h6 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.card .card-block {
+    padding: 25px;
+}
+
+.order-card i {
+    font-size: 26px;
+}
+
+.f-left {
+    float: left;
+}
+
+.f-right {
+    float: right;
+}
+
+.contact_category {
+    font-family: "Montserrat", sans-serif;
+}
+
+.hero {
+    width: 100%;
+    height: auto;
+}
+
+.body {
+    overflow-x: hidden;
+}
